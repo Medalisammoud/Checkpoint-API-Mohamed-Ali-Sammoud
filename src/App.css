@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.userList{
+  width: 500px ;
+  
+}
+.user{
+  border: 1px dashed black !important;
+  margin: 5px !important;
+}
+span{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+.text{
+  font-weight: bold;
+}
